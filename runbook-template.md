@@ -3,10 +3,10 @@
 **Objetivo:** o que este documento resolve, em uma frase.
 **Quando usar:** sintoma que dispara este procedimento. Exemplo: cliente reporta 503 na consulta de crédito.
 **Quem executa:** suporte N1, N2 ou plantão.
-**Pré-requisitos:** acesso ao servidor, VPN, permissão no Jira, ferramenta de monitoramento.
+**Pré-requisitos:** acesso ao servidor, VPN, permissão no GitHub Issues, ferramenta de monitoramento.
 
 ## Passo a passo
-1. Abrir o chamado no Jira e registrar horário, cliente e mensagem de erro exata.
+1. Abrir o chamado no GitHub Issues e registrar horário, cliente e mensagem de erro exata.
 2. Verificar alerta no monitoramento: é um cliente ou todos?
 3. Testar a URL no navegador ou com curl, anotando o status code.
 4. Acessar o servidor e verificar o status do application pool.

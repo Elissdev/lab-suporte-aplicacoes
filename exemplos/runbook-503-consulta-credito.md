@@ -6,11 +6,11 @@
 
 **Quem executa:** suporte N1 em plantão. N2 é acionado no passo 6, se a reciclagem do pool não resolver.
 
-**Pré-requisitos:** acesso à VPN, permissão no Jira, acesso ao servidor de aplicação, acesso ao monitoramento e leitura no diretório de log do IIS.
+**Pré-requisitos:** acesso à VPN, permissão no GitHub Issues, acesso ao servidor de aplicação, acesso ao monitoramento e leitura no diretório de log do IIS.
 
 ## 1. Registrar o caso
 
-No Jira, abrir o chamado com: horário exato da primeira falha, ambiente, cliente afetado (ou "todos"), mensagem de erro exibida na tela e status code retornado. Se houver print do erro, anexar.
+No GitHub Issues, abrir o chamado com: horário exato da primeira falha, ambiente, cliente afetado (ou "todos"), mensagem de erro exibida na tela e status code retornado. Se houver print do erro, anexar.
 
 ## 2. Confirmar o escopo
 
