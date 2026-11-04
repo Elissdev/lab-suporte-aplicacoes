@@ -1,0 +1,4 @@
+treino.db
+treino.db-journal
+*.db-journal
+.DS_Store
